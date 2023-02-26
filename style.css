@@ -14,3 +14,12 @@ input{
     width: 260px;
     scroll-behavior: smooth;
 }
+
+button{
+    border-radius: 20px;
+    font-size: 20px;
+    background: #ffffff;
+    width: 60px;
+    height: 50px;
+    margin: 6px;
+}
